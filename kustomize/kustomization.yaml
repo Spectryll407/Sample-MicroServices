@@ -22,3 +22,4 @@ components:
   # - components/cymbal-branding
   # - components/google-cloud-operations
   # - components/memorystore
+  # - components/network-policy
